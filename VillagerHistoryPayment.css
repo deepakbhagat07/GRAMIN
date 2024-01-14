@@ -1,0 +1,64 @@
+/* Your existing CSS code */
+
+.toggle-button-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+h2{
+    color: rgb(134, 211, 241);
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.email-list {
+    list-style: none;
+    padding: 0;
+    /* width: fit-content;
+    height: fit-content; */
+    text-align: center;
+}
+
+.email-list li {
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.product-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.container-fluid {
+    background-color: rgb(75, 127, 241);
+}
+
+.container{
+    margin-top: 20px;
+    border: solid rgb(134, 215, 134) 2px;
+    height: fit-content;
+    width: fit-content;
+    margin-bottom: 10px;
+    
+}
+button{
+    background-color: rgb(17, 192, 37);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h5{
+    color: red;
+}
+
+#footer{
+    margin-bottom: 10px;
+}
